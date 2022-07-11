@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of this project was to refactor the code of a fictional marketing agency's website. The overarching goal was to make the site more accessible. Horiseon (the fake marketing company) wanted the new code to follow accessibility standards in order to optimize their site for search engines.
+The purpose of this project was to refactor the code of a fictional marketing agency's website. The overarching goal was to make the site more accessible. Horiseon (the fake marketing company) wanted the new code to follow accessibility standards in order to optimize their site for search engines. You can find links at the bottom of the page.
 
 ## Acceptance Criteria
 
@@ -28,3 +28,7 @@ The following is a brief list of changes made to the code to adhere to accessibi
 
 ![Screenshot](horiseon-mockup-screenshot.jpg)
 
+## Deployed Application
+
+Click [here](https://indigofobes.github.io/horiseon-market-smart/Develop/)for the live URL.
+Click [here](https://github.com/IndigoFobes/horiseon-market-smart.git) for my GitHub repository.
